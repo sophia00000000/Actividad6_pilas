@@ -2,8 +2,7 @@ import java.util.Stack;
 
 public class Ejer6 {
 
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+	public static void ejecutar() {
 		Stack<Integer> pila = new Stack();
 		llenarPila(pila);
 		System.out.println("pila Invertida: ");		
